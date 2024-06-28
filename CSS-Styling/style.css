@@ -1,0 +1,32 @@
+h1, .recipes
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body
+{
+    background-color: #A0937D;
+}
+
+h1
+{
+    color: #0c0c0c;
+    text-align: center;
+
+    font-size: 100;
+}
+
+.recipes
+{
+    font-style: oblique;
+    text-decoration-color: #0c0c0c;
+    text-decoration: double;
+}
+
+div
+{
+    text-align: center;
+}
+
+/* For Lasagna */
+
