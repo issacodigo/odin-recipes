@@ -1,0 +1,33 @@
+body {
+    background-color: #E4E0E1;
+    margin: 0;
+}
+
+.title-name {
+    display: flex;
+    background-color: #D6C0B3;
+    justify-content: center;
+    align-items: center; 
+    
+    height: 150px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.recipes {
+    display: flex;
+    background-color: #AB886D;
+
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 50px;
+
+    width: 1000px;
+}
+
+.image-and-texts {
+
+    margin: auto;
+    margin-top: 20px;
+
+}
